@@ -1,0 +1,33 @@
+{
+  "name": "Genomes",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "Category": {
+      "type": "string"
+    },
+    "Species": {
+      "type": "string"
+    },
+    "Type": {
+      "type": "string"
+    },
+    "Release": {
+      "type": "string"
+    },
+    "Name": {
+      "type": "string"
+    },
+    "FilePath": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

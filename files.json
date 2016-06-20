@@ -1,0 +1,306 @@
+[{
+    "FilePath": "/scratch/Reference_Genomes/ERCC/ERCC92.fa",
+    "Release": "ERCC",
+    "Name": "ERCC92.fa",
+    "Category": "ERCC",
+    "Species": "ERCC"
+}, {
+    "Release": "GCF_000146045.2_R64",
+    "Name": "GCF_000146045.2_R64_rna.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Fungi/Saccharomyces_cerevisiae/GCF_000146045.2_R64/GCF_000146045.2_R64_rna.fna",
+    "Species": "Saccharomyces_cerevisiae",
+    "Category": "Fungi"
+}, {
+    "Release": "GCF_000146045.2_R64",
+    "Name": "GCF_000146045.2_R64_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Fungi/Saccharomyces_cerevisiae/GCF_000146045.2_R64/GCF_000146045.2_R64_genomic.fna",
+    "Species": "Saccharomyces_cerevisiae",
+    "Category": "Fungi"
+}, {
+    "Release": "GCF_000001735.3_TAIR10",
+    "Name": "GCF_000001735.3_TAIR10_rna.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Plant/Arabidopsis_thaliana/GCF_000001735.3_TAIR10/GCF_000001735.3_TAIR10_rna.fna",
+    "Species": "Arabidopsis_thaliana",
+    "Category": "Plant"
+}, {
+    "Release": "GCF_000001735.3_TAIR10",
+    "Name": "GCF_000001735.3_TAIR10_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Plant/Arabidopsis_thaliana/GCF_000001735.3_TAIR10/GCF_000001735.3_TAIR10_genomic.fna",
+    "Species": "Arabidopsis_thaliana",
+    "Category": "Plant"
+}, {
+    "Release": "GCF_000219495.1_MedtrA17_3.5",
+    "Name": "GCF_000219495.1_MedtrA17_3.5_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Plant/Medicago_truncatula/GCF_000219495.1_MedtrA17_3.5/GCF_000219495.1_MedtrA17_3.5_genomic.fna",
+    "Species": "Medicago_truncatula",
+    "Category": "Plant"
+}, {
+    "Release": "GCF_000413155.1_DPV01",
+    "Name": "GCF_000413155.1_DPV01_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Plant/Phoenix_dactylifera/GCF_000413155.1_DPV01/GCF_000413155.1_DPV01_genomic.fna",
+    "Species": "Phoenix_dactylifera",
+    "Category": "Plant"
+}, {
+    "Release": "GCF_000002595.1_v3.0",
+    "Name": "GCF_000002595.1_v3.0_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Plant/Chlamydomonas_reinhardtii/GCF_000002595.1_v3.0/GCF_000002595.1_v3.0_genomic.fna",
+    "Species": "Chlamydomonas_reinhardtii",
+    "Category": "Plant"
+}, {
+    "Release": "GCF_000002595.1_v3.0",
+    "Name": "known.fa",
+    "Type": "transcriptome",
+    "FilePath": "/scratch/Reference_Genomes/Plant/Chlamydomonas_reinhardtii/GCF_000002595.1_v3.0/transcriptome_data/known.fa",
+    "Species": "Chlamydomonas_reinhardtii",
+    "Category": "Plant"
+}, {
+    "Release": "PhytozomeV10",
+    "Name": "Creinhardtii",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Plant/Chlamydomonas_reinhardtii/PhytozomeV10/Creinhardtii/Creinhardtii_281_v5.0.fa",
+    "Species": "Chlamydomonas_reinhardtii",
+    "Category": "Plant"
+}, {
+    "Release": "GCF_000147415.1_v_1.0",
+    "Name": "GCF_000147415.1_v_1.0_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Plant/Chlorella/GCF_000147415.1_v_1.0/GCF_000147415.1_v_1.0_genomic.fna",
+    "Species": "Chlorella",
+    "Category": "Plant"
+}, {
+    "Release": "GCF_000258705.1_v2.0",
+    "Name": "GCF_000258705.1_Coccomyxa_subellipsoidae_v2.0_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Plant/Coccomyxa_subellipsoidae/GCF_000258705.1_v2.0/GCF_000258705.1_Coccomyxa_subellipsoidae_v2.0_genomic.fna",
+    "Species": "Coccomyxa_subellipsoidae",
+    "Category": "Plant"
+}, {
+    "Release": "GCF_000146045.2_R64",
+    "Name": "GCF_000005425.2_Build_4.0_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Plant/Oriza_sativa/GCF_000146045.2_R64/GCF_000005425.2_Build_4.0_genomic.fna",
+    "Species": "Oriza_sativa",
+    "Category": "Plant"
+}, {
+    "FilePath": "/scratch/Reference_Genomes/Plant/Date_palm/42345_ref_DPV01_chrUn_modified.fa",
+    "Release": "42345_ref_DPV01_chrUn_modified.fa",
+    "Name": "42345_ref_DPV01_chrUn_modified.fa",
+    "Category": "Plant",
+    "Species": "Plant"
+}, {
+    "Release": "ENSEMBL-ASM15095v2.30",
+    "Name": "Phaeodactylum_tricornutum.ASM15095v2.30.dna.toplevel.fa",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Plant/Phaeodactylum_tricornutum/ENSEMBL-ASM15095v2.30/Phaeodactylum_tricornutum.ASM15095v2.30.dna.toplevel.fa",
+    "Species": "Phaeodactylum_tricornutum",
+    "Category": "Plant"
+}, {
+    "Release": "ENSEMBL-ASM15095v2.30",
+    "Name": "Phaeodactylum_tricornutum.ASM15095v2.30.dna.chromosome.chloroplast.fa",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Plant/Phaeodactylum_tricornutum/ENSEMBL-ASM15095v2.30/Phaeodactylum_tricornutum.ASM15095v2.30.dna.chromosome.chloroplast.fa",
+    "Species": "Phaeodactylum_tricornutum",
+    "Category": "Plant"
+}, {
+    "Release": "GCA_000240185.2",
+    "Name": "Klebsiella_pneumoniae_subsp_pneumoniae_hs11286.GCA_000240185.2.29.dna.toplevel.fa",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Bacteria/Klebsiella_pneumoniae_subsp_pneumoniae_hs11286/GCA_000240185.2/Klebsiella_pneumoniae_subsp_pneumoniae_hs11286.GCA_000240185.2.29.dna.toplevel.fa",
+    "Species": "Klebsiella_pneumoniae_subsp_pneumoniae_hs11286",
+    "Category": "Bacteria"
+}, {
+    "Release": "ENSEMBLE_GCA_000800765.1.29",
+    "Name": "Escherichia_coli_k_12.GCA_000800765.1.29.dna.toplevel.fa",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Bacteria/Escherichia_Coli_K_12/ENSEMBLE_GCA_000800765.1.29/Escherichia_coli_k_12.GCA_000800765.1.29.dna.toplevel.fa",
+    "Species": "Escherichia_Coli_K_12",
+    "Category": "Bacteria"
+}, {
+    "Release": "GCF_000001635.24_GRCm38.p4",
+    "Name": "GCF_000001635.24_GRCm38.p4_rna.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_mammalian/Mus_musculus/GCF_000001635.24_GRCm38.p4/GCF_000001635.24_GRCm38.p4_rna.fna",
+    "Species": "Mus_musculus",
+    "Category": "Vertebrate_mammalian"
+}, {
+    "Release": "GCF_000001635.24_GRCm38.p4",
+    "Name": "GCF_000001635.24_GRCm38.p4_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_mammalian/Mus_musculus/GCF_000001635.24_GRCm38.p4/GCF_000001635.24_GRCm38.p4_genomic.fna",
+    "Species": "Mus_musculus",
+    "Category": "Vertebrate_mammalian"
+}, {
+    "Release": "GCF_000001635.24_GRCm38.p4",
+    "Name": "GCF_000001635.24_GRCm38.p4_genomic.fa",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_mammalian/Mus_musculus/GCF_000001635.24_GRCm38.p4/GCF_000001635.24_GRCm38.p4_genomic.fa",
+    "Species": "Mus_musculus",
+    "Category": "Vertebrate_mammalian"
+}, {
+    "Release": "GCF_000001635.24_GRCm38.p4",
+    "Name": "known.fa",
+    "Type": "transcriptome",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_mammalian/Mus_musculus/GCF_000001635.24_GRCm38.p4/transcriptome_data/known.fa",
+    "Species": "Mus_musculus",
+    "Category": "Vertebrate_mammalian"
+}, {
+    "Release": "ENSEMBL-release-82-GRCm38",
+    "Name": "Mus_musculus.GRCm38.dna.toplevel.fa",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_mammalian/Mus_musculus/ENSEMBL-release-82-GRCm38/Mus_musculus.GRCm38.dna.toplevel.fa",
+    "Species": "Mus_musculus",
+    "Category": "Vertebrate_mammalian"
+}, {
+    "Release": "GCF_000001405.29_GRCh38.p3",
+    "Name": "transcriptome_index",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_mammalian/Homo_sapien/GCF_000001405.29_GRCh38.p3/transcriptome_index/known.fa",
+    "Species": "Homo_sapien",
+    "Category": "Vertebrate_mammalian"
+}, {
+    "Release": "GCF_000001405.29_GRCh38.p3",
+    "Name": "GCF_000001405.29_GRCh38.p3_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_mammalian/Homo_sapien/GCF_000001405.29_GRCh38.p3/GCF_000001405.29_GRCh38.p3_genomic.fna",
+    "Species": "Homo_sapien",
+    "Category": "Vertebrate_mammalian"
+}, {
+    "Release": "ENSEMBL-release-81-GRCh38",
+    "Name": "Homo_sapiens.GRCh38.dna.toplevel.fa",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_mammalian/Homo_sapien/ENSEMBL-release-81-GRCh38/Homo_sapiens.GRCh38.dna.toplevel.fa",
+    "Species": "Homo_sapien",
+    "Category": "Vertebrate_mammalian"
+}, {
+    "Release": "ENSEMBL-release-81-GRCh38",
+    "Name": "Homo_sapiens.GRCh38.dna.toplevel.fa.fa",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_mammalian/Homo_sapien/ENSEMBL-release-81-GRCh38/Homo_sapiens.GRCh38.dna.toplevel.fa.fa",
+    "Species": "Homo_sapien",
+    "Category": "Vertebrate_mammalian"
+}, {
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_mammalian/Sus_scrofa",
+    "Release": "Vertebrate_mammalian",
+    "Name": "Sus_scrofa",
+    "Category": "Vertebrate_mammalian",
+    "Species": "Vertebrate_mammalian"
+}, {
+    "Release": "GCF_000003025.5_Sscrofa10.2",
+    "Name": "GCF_000003025.5_Sscrofa10.2_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_mammalian/Sus_scrofa/GCF_000003025.5_Sscrofa10.2/GCF_000003025.5_Sscrofa10.2_genomic.fna",
+    "Species": "Sus_scrofa",
+    "Category": "Vertebrate_mammalian"
+}, {
+    "Release": "GCF_000002035.5_GRCz10",
+    "Name": "GCF_000002035.5_GRCz10_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_other/Danio_rerio/GCF_000002035.5_GRCz10/GCF_000002035.5_GRCz10_genomic.fna",
+    "Species": "Danio_rerio",
+    "Category": "Vertebrate_other"
+}, {
+    "Release": "ENSEMBL_release_84",
+    "Name": "Danio_rerio.GRCz10.dna.toplevel.fa",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_other/Danio_rerio/ENSEMBL_release_84/Danio_rerio.GRCz10.dna.toplevel.fa",
+    "Species": "Danio_rerio",
+    "Category": "Vertebrate_other"
+}, {
+    "Release": "AnoCar2.0",
+    "Name": "anoCar2.fa",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_other/Anolis_Carolinensis/AnoCar2.0/anoCar2.fa",
+    "Species": "Anolis_Carolinensis",
+    "Category": "Vertebrate_other"
+}, {
+    "Release": "GCA_000935625.1",
+    "Name": "GCA_000935625.1_ASM93562v1_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_other/Nanorana_parkeri/GCA_000935625.1/GCA_000935625.1_ASM93562v1_genomic.fna",
+    "Species": "Nanorana_parkeri",
+    "Category": "Vertebrate_other"
+}, {
+    "Release": "GCF_000004195.2_Xtropicalis_v7_genomic",
+    "Name": "GCF_000004195.2_Xtropicalis_v7_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_other/Xenopus_Silurana_tropicalis/GCF_000004195.2_Xtropicalis_v7_genomic/GCF_000004195.2_Xtropicalis_v7_genomic.fna",
+    "Species": "Xenopus_Silurana_tropicalis",
+    "Category": "Vertebrate_other"
+}, {
+    "Release": "UCSC",
+    "Name": "stickle.fa",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Vertebrate_other/Stickleback/UCSC/stickle.fa",
+    "Species": "Stickleback",
+    "Category": "Vertebrate_other"
+}, {
+    "Release": "GCF_000002985.6_WBcel235",
+    "Name": "GCF_000002985.6_WBcel235_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Invertebrate/Caenorhabditis_elegans/GCF_000002985.6_WBcel235/GCF_000002985.6_WBcel235_genomic.fna",
+    "Species": "Caenorhabditis_elegans",
+    "Category": "Invertebrate"
+}, {
+    "Release": "GCF_000001215.4_Release_6",
+    "Name": "known.fa",
+    "Type": "transcriptome",
+    "FilePath": "/scratch/Reference_Genomes/Invertebrate/Drosophila_melanogaster/GCF_000001215.4_Release_6/transcriptome_data/known.fa",
+    "Species": "Drosophila_melanogaster",
+    "Category": "Invertebrate"
+}, {
+    "Release": "GCF_000001215.4_Release_6",
+    "Name": "GCF_000001215.4_Release_6_plus_ISO1_MT_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Invertebrate/Drosophila_melanogaster/GCF_000001215.4_Release_6/GCF_000001215.4_Release_6_plus_ISO1_MT_genomic.fna",
+    "Species": "Drosophila_melanogaster",
+    "Category": "Invertebrate"
+}, {
+    "Release": "GCF_000001215.4_Release_6",
+    "Name": "GCF_000001215.4_Release_6_plus_ISO1_MT_rna.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Invertebrate/Drosophila_melanogaster/GCF_000001215.4_Release_6/GCF_000001215.4_Release_6_plus_ISO1_MT_rna.fna",
+    "Species": "Drosophila_melanogaster",
+    "Category": "Invertebrate"
+}, {
+    "Release": "ENSEMBL-release-81-BDGP6",
+    "Name": "Drosophila_melanogaster.BDGP6.dna.toplevel.fa",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Invertebrate/Drosophila_melanogaster/ENSEMBL-release-81-BDGP6/Drosophila_melanogaster.BDGP6.dna.toplevel.fa",
+    "Species": "Drosophila_melanogaster",
+    "Category": "Invertebrate"
+}, {
+    "Release": "HNLC1_genomic",
+    "Name": "GCF_000218705.1_HNLC1_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Metagenomic/Marine_metagenome/HNLC1_genomic/GCF_000218705.1_HNLC1_genomic.fna",
+    "Species": "Marine_metagenome",
+    "Category": "Metagenomic"
+}, {
+    "Release": "HNLC2_genomic",
+    "Name": "GCF_000218745.1_HNLC2_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Metagenomic/Marine_metagenome/HNLC2_genomic/GCF_000218745.1_HNLC2_genomic.fna",
+    "Species": "Marine_metagenome",
+    "Category": "Metagenomic"
+}, {
+    "Release": "SAR86A",
+    "Name": "GCF_000252525.1_SAR86A_1.0_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Metagenomic/Marine_metagenome/SAR86A/GCF_000252525.1_SAR86A_1.0_genomic.fna",
+    "Species": "Marine_metagenome",
+    "Category": "Metagenomic"
+}, {
+    "Release": "SAR86B",
+    "Name": "GCF_000252545.1_SAR86B_1.0_genomic.fna",
+    "Type": "DNA",
+    "FilePath": "/scratch/Reference_Genomes/Metagenomic/Marine_metagenome/SAR86B/GCF_000252545.1_SAR86B_1.0_genomic.fna",
+    "Species": "Marine_metagenome",
+    "Category": "Metagenomic"
+}]

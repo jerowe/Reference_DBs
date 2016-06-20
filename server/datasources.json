@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "genomes": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "referenceDB",
+    "username": "referenceDB",
+    "password": "referenceDB",
+    "name": "genomes",
+    "connector": "mongodb"
+  }
+}
